@@ -1,5 +1,5 @@
-# Yandex.Praktikum
-First steps in Machine Learning and Big Data
+# Яндекс.Практикум
+Первые шаги в машинном обучении и больших данных
 
 
 
